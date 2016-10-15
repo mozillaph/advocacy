@@ -1,8 +1,8 @@
-# Description:
+### Description:
 
 One line goal description
 
-# Related Issues & Links (if any):
+### Related Issues & Links (if any):
 
 Issues: #
 [Links](url)
